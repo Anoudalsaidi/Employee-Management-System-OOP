@@ -82,7 +82,7 @@ namespace project01
             List<Employee> employees = new List<Employee>();
 
             employees.Add(new Developer(101, "Anoud", "IT", 1200, "C#"));
-            employees.Add(new Designer(202, "Malak", "Design", 700, "Figma"));
+            employees.Add(new Designer(202, "Malaak", "Design", 700, "Figma"));
 
             foreach (Employee emp in employees)
             {
