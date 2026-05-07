@@ -88,7 +88,7 @@ namespace project01
             {
                 emp.DisplayInfo();
                 emp.Work();
-                Console.WriteLine("-----------------");
+                Console.WriteLine("-------------------");
             }
         }
     }
