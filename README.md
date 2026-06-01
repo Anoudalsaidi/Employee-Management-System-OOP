@@ -1,4 +1,4 @@
-# 👨‍💼 Employee Management System
+# 👨‍💼 Employee-Management-System-OOP
 
 ![C#](https://img.shields.io/badge/C%23-Programming-blue)
 ![.NET](https://img.shields.io/badge/.NET-ConsoleApp-purple)
