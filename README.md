@@ -152,15 +152,13 @@ Designer is creating UI designs
 
 ---
 
-# 📚 Learning Outcomes
+## 🎯 Skills Demonstrated
 
-- Object-Oriented Programming Principles
-- Class Design
-- Inheritance
-- Encapsulation
-- Method Overriding
-- Runtime Polymorphism
-- Clean Code Practices
+- Problem Solving
+- OOP Design
+- C# Programming
+- Clean Code
+- Console Application Development
 
 ---
 
