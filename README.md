@@ -75,6 +75,17 @@ It demonstrates how **Object-Oriented Programming (OOP)** principles can be appl
 - Reusable class structure
 
 ---
+## ✨ Key Concepts Demonstrated
+
+- Object-Oriented Programming (OOP)
+- Classes & Objects
+- Encapsulation
+- Inheritance
+- Polymorphism
+- Method Overriding
+- Code Reusability
+- Clean Class Design
+---
 
 # 📂 Project Structure
 
