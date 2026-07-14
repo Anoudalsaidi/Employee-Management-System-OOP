@@ -93,7 +93,7 @@ EmployeeManagementSystem
 
 > Console Output
 
-![Console](images/output.png)
+![Console](Console%20Output.png)
 
 ---
 
