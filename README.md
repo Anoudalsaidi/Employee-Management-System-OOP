@@ -2,12 +2,16 @@
   <img src="banner.png" alt="Employee Management System Banner" width="100%">
 </p>
 
+
 # 👨‍💼 Employee Management System (OOP)
+
+![Status](https://img.shields.io/badge/Status-Completed-success)
 
 ![.NET](https://img.shields.io/badge/.NET-8.0-purple)
 ![C#](https://img.shields.io/badge/C%23-Language-blue)
 ![OOP](https://img.shields.io/badge/OOP-Concepts-success)
 ![Console](https://img.shields.io/badge/Application-Console-orange)
+
 
 A simple **C# Console Application** demonstrating the core principles of **Object-Oriented Programming (OOP)** through a real-world employee management system.
 
