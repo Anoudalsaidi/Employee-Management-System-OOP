@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Employee Management System Banner" width="100%">
+  <img src="images/banner.png" alt="Employee Management System Banner" width="100%">
 </p>
 
 
@@ -108,7 +108,7 @@ EmployeeManagementSystem
 
 > Console Output
 
-![Console](Console%20Output.png)
+![Console](images/Console%20Output.png)
 
 ---
 
