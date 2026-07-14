@@ -13,3 +13,18 @@ C:\Users\anoud\OneDrive\Desktop\BackEnd\Employee Management System\Solution01\pr
 C:\Users\anoud\OneDrive\Desktop\BackEnd\Employee Management System\Solution01\project01\obj\Debug\net8.0\project01.pdb
 C:\Users\anoud\OneDrive\Desktop\BackEnd\Employee Management System\Solution01\project01\obj\Debug\net8.0\project01.genruntimeconfig.cache
 C:\Users\anoud\OneDrive\Desktop\BackEnd\Employee Management System\Solution01\project01\obj\Debug\net8.0\ref\project01.dll
+C:\Users\baker\Desktop\Backend\Employee-Management-System-OOP\Solution01\project01\bin\Debug\net8.0\project01.exe
+C:\Users\baker\Desktop\Backend\Employee-Management-System-OOP\Solution01\project01\bin\Debug\net8.0\project01.deps.json
+C:\Users\baker\Desktop\Backend\Employee-Management-System-OOP\Solution01\project01\bin\Debug\net8.0\project01.runtimeconfig.json
+C:\Users\baker\Desktop\Backend\Employee-Management-System-OOP\Solution01\project01\bin\Debug\net8.0\project01.dll
+C:\Users\baker\Desktop\Backend\Employee-Management-System-OOP\Solution01\project01\bin\Debug\net8.0\project01.pdb
+C:\Users\baker\Desktop\Backend\Employee-Management-System-OOP\Solution01\project01\obj\Debug\net8.0\project01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baker\Desktop\Backend\Employee-Management-System-OOP\Solution01\project01\obj\Debug\net8.0\project01.AssemblyInfoInputs.cache
+C:\Users\baker\Desktop\Backend\Employee-Management-System-OOP\Solution01\project01\obj\Debug\net8.0\project01.AssemblyInfo.cs
+C:\Users\baker\Desktop\Backend\Employee-Management-System-OOP\Solution01\project01\obj\Debug\net8.0\project01.csproj.CoreCompileInputs.cache
+C:\Users\baker\Desktop\Backend\Employee-Management-System-OOP\Solution01\project01\obj\Debug\net8.0\project01.sourcelink.json
+C:\Users\baker\Desktop\Backend\Employee-Management-System-OOP\Solution01\project01\obj\Debug\net8.0\project01.dll
+C:\Users\baker\Desktop\Backend\Employee-Management-System-OOP\Solution01\project01\obj\Debug\net8.0\refint\project01.dll
+C:\Users\baker\Desktop\Backend\Employee-Management-System-OOP\Solution01\project01\obj\Debug\net8.0\project01.pdb
+C:\Users\baker\Desktop\Backend\Employee-Management-System-OOP\Solution01\project01\obj\Debug\net8.0\project01.genruntimeconfig.cache
+C:\Users\baker\Desktop\Backend\Employee-Management-System-OOP\Solution01\project01\obj\Debug\net8.0\ref\project01.dll

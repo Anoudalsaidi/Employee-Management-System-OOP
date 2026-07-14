@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\anoud\\OneDrive\\Desktop\\BackEnd\\Employee Management System\\Solution01\\project01\\project01.csproj": {}
+    "C:\\Users\\baker\\Desktop\\Backend\\Employee-Management-System-OOP\\Solution01\\project01\\project01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\anoud\\OneDrive\\Desktop\\BackEnd\\Employee Management System\\Solution01\\project01\\project01.csproj": {
+    "C:\\Users\\baker\\Desktop\\Backend\\Employee-Management-System-OOP\\Solution01\\project01\\project01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anoud\\OneDrive\\Desktop\\BackEnd\\Employee Management System\\Solution01\\project01\\project01.csproj",
+        "projectUniqueName": "C:\\Users\\baker\\Desktop\\Backend\\Employee-Management-System-OOP\\Solution01\\project01\\project01.csproj",
         "projectName": "project01",
-        "projectPath": "C:\\Users\\anoud\\OneDrive\\Desktop\\BackEnd\\Employee Management System\\Solution01\\project01\\project01.csproj",
-        "packagesPath": "C:\\Users\\anoud\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anoud\\OneDrive\\Desktop\\BackEnd\\Employee Management System\\Solution01\\project01\\obj\\",
+        "projectPath": "C:\\Users\\baker\\Desktop\\Backend\\Employee-Management-System-OOP\\Solution01\\project01\\project01.csproj",
+        "packagesPath": "C:\\Users\\baker\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\baker\\Desktop\\Backend\\Employee-Management-System-OOP\\Solution01\\project01\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\anoud\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\baker\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -45,7 +45,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "10.0.200"
+        "SdkAnalysisLevel": "10.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -65,19 +65,19 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[8.0.26, 8.0.26]"
+              "version": "[8.0.28, 8.0.28]"
             },
             {
               "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[8.0.26, 8.0.26]"
+              "version": "[8.0.28, 8.0.28]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
-              "version": "[8.0.26, 8.0.26]"
+              "version": "[8.0.28, 8.0.28]"
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[8.0.26, 8.0.26]"
+              "version": "[8.0.28, 8.0.28]"
             }
           ],
           "frameworkReferences": {
@@ -85,7 +85,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
